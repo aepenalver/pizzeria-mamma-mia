@@ -2,7 +2,7 @@
 
 Proyecto desarrollado para mostrar conocimientos de desarrollo con React.
 
-## Link de despliegue: [Pizerría Mamma Mia](https://aepenalver.github.io/pizzeria-mamma-mia/)
+## Link de despliegue: [Pizería Mamma Mia](https://aepenalver.github.io/pizzeria-mamma-mia/)
 
 ## Tecnologías Empleadas
 
